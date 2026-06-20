@@ -55,6 +55,22 @@ Linear-Regression-Project/
 * Evaluating model performance
 * Visualizing relationships between variables
 
+## Model Evaluation Metrics
+
+The model performance was evaluated using:
+
+- MAE (Mean Absolute Error)
+- MSE (Mean Squared Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+These metrics help assess prediction accuracy and the overall effectiveness of the regression model.
+
+## Exploratory Data Analysis (EDA)
+
+- Visualized the relationship between TV advertising expenditure and sales.
+- Visualized the relationship between Radio advertising expenditure and sales.
+- Visualized the relationship between Newspaper advertising expenditure and sales.
 
 ## Author
 
